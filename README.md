@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @ankur
+Hi there! 👋 I'm Ankur
 
-shoot a mail for requesting access repo...
+Welcome to my GitHub! 🚀
 
-<!---
-djankur/djankur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 About Me
+
+  💻 Passionate Software Engineer & Architect
+
+  🔥 Love building scalable, high-performance applications and computation
+
+  ☁️ Cloud enthusiast 
+
+  📊 Big fan of automation, monitoring & analytics
+
+📂 Repository Access
+
+      If you need access to a private repository, feel free to drop me an email 📩. Let me know your GitHub username and the reason for access.
+
+  ✉️ Shoot me an email for repository access
+
+🚀 Technologies & Tools  :   C/C++, Java, Python, Dart
+
+
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Happy Coding! 🚀
+
